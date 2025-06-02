@@ -246,7 +246,7 @@ end)
 -- Dupe Amount Input
 local dupeAmount = 1
 MainTab:CreateInput({
-	Name = "Dupe Amount (1-100)",
+	Name = "Dupe Amount (1-10)",
 	PlaceholderText = "Enter a number",
 	RemoveTextAfterFocusLost = false,
 	Callback = function(text)
