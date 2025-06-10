@@ -27,7 +27,7 @@ local DescriptionTab = Window:CreateTab("Description", 0)
 
 DescriptionTab:CreateParagraph({
 	Title = "🧬 Supported Pets",
-	Content = "Only works with Queen Bee, Raccoon, Dragonfly, and Red Fox."
+	Content = "Only works with Queen Bee, Raccoon, Dragonfly, and Red Fox And more."
 })
 
 local info = {
