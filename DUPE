@@ -6,7 +6,7 @@ local player = Players.LocalPlayer
 local Rayfield = loadstring(game:HttpGet("https://sirius.menu/rayfield"))()
 
 local Window = Rayfield:CreateWindow({
-	Name = "SKIBITI HUB",
+	Name = "NEXUS HUB",
 	LoadingTitle = "ACESSING",
 	LoadingSubtitle = "MADE BY mxarco.polo",
 	ConfigurationSaving = { Enabled = false },
